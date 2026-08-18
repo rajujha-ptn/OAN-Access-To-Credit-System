@@ -216,7 +216,7 @@ export default function AgentApplicationTable() {
       loanAmount: [],
       loanType: [],
       location: '',
-      quickDate: undefined,
+      quickDate: '',
       dateRange: { from: '', to: '' }
     });
     setCurrentPage(1);
